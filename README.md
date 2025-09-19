@@ -1,5 +1,3 @@
-# LocalEDA-AutoML-GPT
-
 # AutoEDA + AutoML + Feature Visualization + Local GPT4All Q&A
 
 ![Project Banner](https://img.shields.io/badge/Streamlit-EDA%20Dashboard-blue)
